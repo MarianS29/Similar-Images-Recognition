@@ -1,0 +1,14 @@
+[project]
+name = "similar-images-recognition"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "ipykernel>=7.1.0",
+    "matplotlib>=3.10.7",
+    "numpy>=2.3.5",
+    "opencv-python>=4.11.0.86",
+    "scikit-learn>=1.7.2",
+    "scipy>=1.16.3",
+]
